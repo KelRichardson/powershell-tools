@@ -1,2 +1,3 @@
 # powershell-tools
-A collection of powershell scripts and tools
+
+This is a collection of powershell scripts and tools.
